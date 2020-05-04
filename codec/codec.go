@@ -1,8 +1,8 @@
 package codec
 
 import (
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/codec/fake"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/codec/fake"
 	"time"
 )
 

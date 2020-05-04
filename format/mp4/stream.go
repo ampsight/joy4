@@ -1,8 +1,8 @@
 package mp4
 
 import (
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/format/mp4/mp4io"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/format/mp4/mp4io"
 	"time"
 )
 

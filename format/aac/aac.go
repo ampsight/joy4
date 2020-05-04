@@ -3,9 +3,9 @@ package aac
 import (
 	"bufio"
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/codec/aacparser"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/av/avutil"
+	"github.com/ampsight/joy4/codec/aacparser"
 	"io"
 	"time"
 )

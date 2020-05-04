@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/av/pktque"
-	"github.com/VKCOM/joy4/av/pubsub"
-	"github.com/VKCOM/joy4/format"
-	"github.com/VKCOM/joy4/format/rtmp"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/av/avutil"
+	"github.com/ampsight/joy4/av/pktque"
+	"github.com/ampsight/joy4/av/pubsub"
+	"github.com/ampsight/joy4/format"
+	"github.com/ampsight/joy4/format/rtmp"
 	"sync"
 	"time"
 )

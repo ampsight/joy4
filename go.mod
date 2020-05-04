@@ -1,6 +1,6 @@
-module github.com/VKCOM/joy4
+module github.com/ampsight/joy4
 
-go 1.12
+go 1.14
 
 require (
 	github.com/pkg/errors v0.8.1

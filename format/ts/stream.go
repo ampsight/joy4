@@ -1,8 +1,8 @@
 package ts
 
 import (
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/format/ts/tsio"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/format/ts/tsio"
 	"time"
 )
 

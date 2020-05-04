@@ -1,8 +1,8 @@
 package rtsp
 
 import (
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/format/rtsp/sdp"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/format/rtsp/sdp"
 	"time"
 )
 

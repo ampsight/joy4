@@ -2,10 +2,10 @@ package avconv
 
 import (
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/av/pktque"
-	"github.com/VKCOM/joy4/av/transcode"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/av/avutil"
+	"github.com/ampsight/joy4/av/pktque"
+	"github.com/ampsight/joy4/av/transcode"
 	"github.com/sirupsen/logrus"
 	"io"
 	"time"

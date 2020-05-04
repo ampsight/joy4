@@ -3,11 +3,11 @@ package mp4
 import (
 	"bufio"
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/codec/aacparser"
-	"github.com/VKCOM/joy4/codec/h264parser"
-	"github.com/VKCOM/joy4/format/mp4/mp4io"
-	"github.com/VKCOM/joy4/utils/bits/pio"
+	"github.com/ampsight/joy4/av"
+	"github.com/ampsight/joy4/codec/aacparser"
+	"github.com/ampsight/joy4/codec/h264parser"
+	"github.com/ampsight/joy4/format/mp4/mp4io"
+	"github.com/ampsight/joy4/utils/bits/pio"
 	"io"
 	"time"
 )
