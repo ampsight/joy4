@@ -72,6 +72,18 @@ type Handlers struct {
 	handlers []RegisterHandler
 }
 
+func (self *Handlers) String() string {
+	var builder strings.Builder
+
+	for i, handler := range self.handlers {
+		if i != 0 {
+			builder.WriteString(", ")
+		}
+		builder.WriteString(handler.Ext)
+	}
+	return builder.String()
+}
+
 func (self *Handlers) Add(fn func(*RegisterHandler)) {
 	handler := &RegisterHandler{}
 	fn(handler)
